@@ -55,9 +55,9 @@ It does **not** redistribute course materials but serves as a **personal portfol
 This repository is published under the [MIT License](LICENSE).  
 You are free to use, modify, and share this project with proper attribution.  
 
----
 
- 👨‍💻 About Me  
+
+## 👨‍💻 About Me  
 
 Hi there! I’m **Mohammad Faryadi**, a Master of Global Business student in Toronto with a strong interest in **data analytics, data engineering, and business intelligence**.  
 I’m actively building hands-on projects with SQL, Power BI, and data warehousing to sharpen my analytics and decision-making skills.  
