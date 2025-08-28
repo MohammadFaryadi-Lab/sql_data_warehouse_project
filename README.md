@@ -41,11 +41,11 @@ These insights empower stakeholders with key metrics, enabling strategic decisio
 ## 📚 Learning Context  
 
 This project is part of my **learning and practice** while following the Udemy course:  
-👉 [The Complete SQL Bootcamp: Go from Zero to Hero (30 Hours)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?couponCode=MT260825G1)  
+[The Complete SQL Bootcamp: Go from Zero to Hero (30 Hours)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?couponCode=MT260825G1)  
 
 Instructor: [Baraa Khatib Salkini (Data With Baraa)](https://www.udemy.com/user/baraa-khatib-salkini-2/)  
 
-⚡ Note: The repository contains **my own practice work**, coded along while learning.  
+Note: The repository contains **my own practice work**, coded along while learning.  
 It does **not** redistribute course materials but serves as a **personal portfolio and practice record**.  
 
 ---
