@@ -55,7 +55,7 @@ It does **not** redistribute course materials but serves as a **personal portfol
 This repository is published under the [MIT License](LICENSE).  
 You are free to use, modify, and share this project with proper attribution.  
 
-
+---
 
 ## 👨‍💻 About Me  
 
