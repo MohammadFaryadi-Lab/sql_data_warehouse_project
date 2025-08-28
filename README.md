@@ -2,7 +2,8 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository!  
 This project demonstrates my practice and learning journey in building a modern data warehouse and analytics solution. The goal is to consolidate raw sales data into a structured data warehouse and generate actionable business insights through SQL-based reporting and analytics.  
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/47b52215-22ac-4084-9c4a-d67acd0002f4" />
+<img width="1205" height="614" alt="Screenshot 2025-08-27 222614" src="https://github.com/user-attachments/assets/2815d08b-48c7-45cf-b362-2510c42e6cdb" />
+
 
 
 Designed as a **portfolio project**, it highlights key concepts in **data engineering** and **data analytics** while following industry best practices.  
