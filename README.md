@@ -1,4 +1,4 @@
-# 🚀 Data Warehouse and Analytics Project  
+# Data Warehouse and Analytics Project  
 
 Welcome to the **Data Warehouse and Analytics Project** repository!  
 This project demonstrates my practice and learning journey in building a modern data warehouse and analytics solution. The goal is to consolidate raw sales data into a structured data warehouse and generate actionable business insights through SQL-based reporting and analytics.  
